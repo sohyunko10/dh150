@@ -1,0 +1,28 @@
+body {
+    background-color: darkslateblue; 
+}
+
+h1 {
+    color: darkblue; 
+    font-family: helvetica;
+    background-color: pink; 
+    border: 5px solid white; 
+    padding: 50px; 
+}
+
+p {
+    color: darkcyan;
+    background-color: white; 
+}
+
+h3 {
+    color: palevioletred;
+    background-color: pink; 
+}
+
+img {
+    border: 5px solid white; 
+    width: 25%; 
+    height: 25%; 
+    margin-left: 100px; 
+}
